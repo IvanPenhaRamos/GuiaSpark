@@ -1,0 +1,1 @@
+Otro de los motivos de realizar el glosario es para tener constancia tanto de las dependencias, como de los métodos y funciones que deben ser importadas
